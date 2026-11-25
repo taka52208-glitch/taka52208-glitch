@@ -13,6 +13,22 @@ Web・モバイルアプリの開発をしています。介護事業所向け�
 | iOS アプリ（App Store 開発者ページ） | https://apps.apple.com/us/developer/takamoto-sakai/id1896195459 |
 | ポートフォリオ | https://portfolio-five-flame-xoop2akxrc.vercel.app |
 
+### さわれるデモ
+
+- **[投稿文 出し分けAPI](https://post-split-demo.vercel.app)** — 原稿を1本入れると
+  WordPress・X・Instagram・Googleビジネスプロフィール向けに文体と文字数を出し分けます。
+  生成後に原稿と突き合わせ、**原稿に無い数字・売り文句が混ざっていないかを自動で検査**します。
+
+### 書いたもの（Zenn）
+
+実運用で壊したこと・気づけなかったこと・どう直したかを書いています。
+
+- 📘 **[Claude Code で本番を壊した12の記録](https://zenn.dev/taketake36/books/71d6ce300c91b4)** — 全10章。冒頭2章は無料
+- [デプロイは成功した。でもログインは全滅していた](https://zenn.dev/taketake36/articles/b11529c8b04076)
+- [「OpenAI・Anthropic互換」を鵜呑みにしない — さくらのAI Engine を公式SDKで12項目検証した](https://zenn.dev/taketake36/articles/9a093b50571c83)
+
+Zenn のプロフィールは [こちら](https://zenn.dev/taketake36)。
+
 ### 介護のシフト管理について書いた記事
 
 CareShift を作る過程で調べたことを記事にしています。
